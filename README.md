@@ -7,7 +7,7 @@
 The goal of this project is to combine the powerful note-taking and linking features of **Obsidian** with the collaborative capabilities of platforms like **Google Docs**. The system is designed to allow users to work together without relying on the paid Obsidian Sync service.
 
 ## 📂 **Features**
-- COLLAB EKLE! AYNI ANDA OLAYINI EKLE
+- Users can edit their notes simultaneously.
 - Users can create **links between notes**, which are visualized through an **interactive knowledge graph**.
 - **In-app notifications** allow users to invite friends directly to collaborate on notes and vaults.
 - Each user is assigned a specific **role**:
